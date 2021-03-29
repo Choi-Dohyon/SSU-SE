@@ -16,8 +16,14 @@
 
 </br>
 
-## 제목 작성하기  
+## 표 만들기  
 
 </br>
 
-~~Hi~~ Hello, world!
+  | foo | bar |
+  | --- | --- |
+  | baz | bim |
+
+| foo | bar |
+| --- | --- |
+| baz | bim |
