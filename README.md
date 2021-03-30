@@ -133,10 +133,20 @@ Markdown에서 취소선을 쓰는 방법을 알아봅시다.
 기본 구문에서는 링크를 생성하기 위해서 몇몇작업이 필요했지만, 확장 구문에서는 자동으로 링크를 생성되게 할 수 있습니다.
 
     www.google.com
+    
+    http://google.com
+    
+    https://google.com
  
-ex1 ) www.google.com
+ex1 ) 
 
-`www.` 뒤에 알파벳, 숫자, _ 문자, - 문자로 이루어진 주소를 적으면 링크가 생성됩니다.
+> www.google.com
+>
+> http://google.com
+>    
+> https://google.com
+
+`www.`, `http://.`, 또는 `https://` 뒤에 알파벳, 숫자, _ 문자, - 문자로 이루어진 주소를 적으면 링크가 생성됩니다.
 
 </br>
 
@@ -189,6 +199,14 @@ ex5 ) www.google.com/search?q=(mark)down)
 ' & ' 문자부터 ' ; ' 문자까지는 링크에 포함되지 않습니다.
 
 ex6 ) www.google.com/search?q=markdown&abcdef;
+
+</br>
+
+오토링크에 ' < ' 문자가 있으면 그 부분부터는 링크에 포함되지 않습니다.
+
+ex7 ) www.google.com</search?q=markdown
+
+ex7의 링크는 markdown의 검색 화면이 아닌 구글 홈페이지로 연결됩니다.
 
 </br>
 
