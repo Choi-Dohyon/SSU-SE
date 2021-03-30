@@ -234,6 +234,8 @@ ex ) abc_123+hi@gmail.com
 </br>
 
 <strong> <title> <style> <em> <xmp> <XMP>
+    
+<xmp>
 
 <blockquote>
   <xmp> is disallowed.  <XMP> is also disallowed.
