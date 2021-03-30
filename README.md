@@ -9,7 +9,7 @@
 >
 > 4. [자동 링크](#자동-링크)
 >
-> 5. [인용문](#인용문)
+> 5. [적용되지 않는 HTML 태그](#적용되지-않는-HTML-태그)
 
 ## 표 만들기  
 
@@ -233,18 +233,16 @@ ex ) abc_123+hi@gmail.com
 
 </br>
 
-<strong> <title> <style> <em>
-    
-<xmp>
+다음 HTML 태그들을 Markdown에서 사용하려고 해도 사용되지 않습니다.
 
-<title>
-<textarea>
-<style>
-<xmp>
-<iframe>
-<noembed>
-<noframes>
-<script>
-<plaintext>
+- <title>
+- <textarea>
+- <style>
+- <xmp>
+- <iframe>
+- <noembed>
+- <noframes>
+- <script>
+- <plaintext>
       
       
