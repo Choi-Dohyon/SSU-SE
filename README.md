@@ -178,17 +178,17 @@ ex2처럼 말이죠.
 
 - > ex3 ) www.google.com/search?q=(markdown)
   >
-  > ex3의 경우에는 ' ( ' 문자와 ' ) ' 문자의 갯수가 같으므로 (markdown)의 검색 화면 링크가 생성됩나다.
+  > ex3의 경우에는 ' ( ' 문자와 ' ) ' 문자의 갯수가 같으므로 **(markdown)**의 검색 화면 링크가 생성됩나다.
 
 - > ex4 ) www.google.com/search?q=((markdown))
   >
-  > ex4도 마찬가지로 ((markdown))의 검색 화면 링크가 생성됩니다.
+  > ex4도 마찬가지로 **((markdown))**의 검색 화면 링크가 생성됩니다.
 
 - > ex5 ) www.google.com/search?q=(mark)down)
   >
   > 하지만 ex5처럼 ' ) ' 문자가 더 많으면 링크 맨 뒤의 ' ) ' 문자는 링크에 포함되지 않습니다.
   >
-  > 그래서 (mark)down의 검색 화면 링크가 생성됩니다.
+  > 그래서 **(mark)down**의 검색 화면 링크가 생성됩니다.
 
 </br>
 
