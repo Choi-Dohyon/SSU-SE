@@ -233,7 +233,7 @@ ex ) abc_123+hi@gmail.com
 
 </br>
 
-<strong> <title> <style> <em>
+<strong> <title> <style> <em> <xmp> <XMP>
 
 <blockquote>
   <xmp> is disallowed.  <XMP> is also disallowed.
