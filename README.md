@@ -235,14 +235,12 @@ ex ) abc_123+hi@gmail.com
 
 다음 HTML 태그들을 Markdown에서 사용하려고 해도 사용되지 않습니다.
 
-- <title>
-- <textarea>
-- <style>
-- <xmp>
-- <iframe>
-- <noembed>
-- <noframes>
-- <script>
-- <plaintext>
-      
-      
+> - <title>
+> - <textarea>
+> - <style>
+> - <xmp>
+> - <iframe>
+> - <noembed>
+> - <noframes>
+> - <script>
+> - <plaintext>
