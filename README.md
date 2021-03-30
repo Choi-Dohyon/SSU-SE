@@ -237,8 +237,14 @@ ex ) abc_123+hi@gmail.com
     
 <xmp>
 
-<blockquote>
-  <xmp> is disallowed.  <XMP> is also disallowed.
-</blockquote>
+<title>
+<textarea>
+<style>
+<xmp>
+<iframe>
+<noembed>
+<noframes>
+<script>
+<plaintext>
       
       
