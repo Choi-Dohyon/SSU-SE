@@ -233,7 +233,7 @@ ex ) abc_123+hi@gmail.com
 
 </br>
 
-<strong> <title> <style> <em> <xmp> <XMP>
+<strong> <title> <style> <em>
     
 <xmp>
 
